@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Computational Biologist at Denali Therapeutics leveraging genomics to help discover and develop meaningful therapeutic interventions for neurodegenerative disease. I have been working at the intersection of biology and computation for over a decade and believe that science is better when done collaboratively, and by more people. This happens best when both computational and non-computational researchers alike can [easily explore and analyze data](https://facileverse.netlify.com).
+I am a Computational Biologist at Denali Therapeutics using genomics to help discover and develop meaningful therapeutic interventions for neurodegenerative disease. I have been working at the intersection of biology and computation for more than ten years and believe that science is better when done collaboratively, and by more people. This happens best when both computational and non-computational researchers alike can [freely explore and analyze data](https://facileverse.org).
