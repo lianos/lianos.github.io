@@ -22,7 +22,7 @@ name: Steve Lianoglou
 organizations:
 - name: Denali Therapeutics
   url: "https://denalitherapeutics.com"
-role: Senior Scientst
+role: Computational Biologist
 social:
 - icon: envelope
   icon_pack: fas
